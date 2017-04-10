@@ -1,7 +1,12 @@
 # Skinning the UI Look and Feel
 
-We'll start off with a sample app that has not been polished.
+For this [demo](https://drive.google.com/open?id=0B3ki-tI2wTHuWnBlOUpiTzc0Wlk), we'll go over:
+1. Colors
+2. Shape Drawables
+3. LayerList Drawables
+4. Vector Drawables
+5. StateList Drawables
+6. Theme
+7. Style
 
-
-<img src="http://i.imgur.com/SJEdJiN.png" width="200" alt="Sample App" />
 <img src="http://i.imgur.com/4stMEIa.png" width="200" alt="Polished Sample App" />
